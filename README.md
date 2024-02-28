@@ -1,3 +1,5 @@
+[<img src="https://i.ytimg.com/vi/dFFpjjD9cj4/maxresdefault.jpg">](https://www.youtube.com/watch?v=dFFpjjD9cj4 "Introdução ao NestJS #nodejs #typescript #backend #api #framework")
+
 APIs e CRUD são demandas muito comuns para o desenvolvedor backend. Deve ter um jeito melhor e mais rápido de fazer isso, certo?
 
 ⭐ O NestJS é um framework web robusto e opinionado, que traz uma série de funcionalidades embutidas e tem compatibilidade com vários pacotes NPM da comunidade. Várias decisões críticas já foram tomadas por você, por pessoas que sabem o que estão fazendo, o que significa que seu app já nasce apontando pro sucesso.
